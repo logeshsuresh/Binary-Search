@@ -14,7 +14,7 @@ class Solution {
             }
         }
 
-        return low;
+        return k;
     }
 
     public static int maximum(int[] piles) {
